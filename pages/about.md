@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://hrkerner.github.io/Collection-Builder/item.html?id=ArtRetro00014" %}
+{% include feature/jumbotron.html objectid="ArtRetro00014" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
