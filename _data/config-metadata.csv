@@ -5,7 +5,6 @@ date,Date Created,
 description,Description,
 material,Material
 subject,Subjects,true
-location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
