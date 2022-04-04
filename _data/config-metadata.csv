@@ -1,15 +1,22 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
+filename,File Name,
+category,Category,
+object type,Object Type,
 date,Date Created,
+creator,Creator,
+tools and equipment,Tools and Equipment,
+processes and techniques,Processes and Techniques,
 description,Description,
-material,Material
-subject,Subjects
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
+dimensions,Dimensions,
+material,Materials,
+conditions and effects,Conditions and Effects,
+brand name,Brand Name,
+production type,Production Type,
+subject,Subjects,true
+objectid,Object ID,
 format,Format,
-rights,Rights,
+identifier,Source Identifier,
+rights,Rights Statement,
 rightsstatement,Rights Statement,,true
+language,Language,
+recipient,Recipient,
