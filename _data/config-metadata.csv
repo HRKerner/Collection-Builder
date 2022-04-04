@@ -1,5 +1,5 @@
 field,display_name,browse_link,external_link
-title,File Name,
+filename,File Name,
 category,Category,
 object type,Object Type,
 date,Date Created,
