@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,,
-filename,File Name,,
+fn,File Name,,
 category,Category,,
 object type,Object Type,,
 date,Date Created,,
