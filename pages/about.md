@@ -14,14 +14,7 @@ credits: true
 
 ## About the Collection
 
-I am testing the page to see if this works.
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+The Rothnie Collection contains the earliest objects from a growing body of work that began in 2000. Maryland Institute College of Art alumni, Heather Rothnie, boasts twenty one-of-a-kind figures made of papier Mâché and acrylic paint. This whimsical collection has been made in a raw format to remind the viewer that we all have rough spots to our lives (similar to the material in this collection). But, a smile or small laugh like the ones found within each of these objects can bring out the bright moments in an unpredictable world.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
