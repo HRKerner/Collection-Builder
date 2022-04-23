@@ -20,7 +20,7 @@
 {%- assign image-items = site.data[site.metadata ] | where_exp: "item","item.format contains 'image'" -%}
 {%- assign youtube-items = site.data[site.metadata ] | where_exp: "item","item.youtubeid" -%}
 {%- if youtube-items -%}{%- assign carousel-items = image-items | concat: youtube-items -%}{%- else -%}{%- assign carousel-items = image-items -%}{% endif %}
-{%- assign carousel-max = include.max | default: 9 -%}
+{%- assign carousel-max = include.max | default: 13 -%}
 {%- assign btn-color = include.btn-color | default: "primary" -%}
 {%- assign btn-text = include.btn-text | default: "View Item" -%}
 
