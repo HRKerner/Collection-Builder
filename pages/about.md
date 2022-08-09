@@ -10,6 +10,7 @@ credits: true
 {% include feature/jumbotron.html objectid="ArtRetro0005" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
+**Questions?**
 
 ## About the Collection
 
