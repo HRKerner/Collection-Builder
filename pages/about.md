@@ -17,4 +17,4 @@ Welcome to our growing collection! The majority of our zines are created by peop
 
 The very heart of zines is their ability to give voice to those who are not traditionally represented in libraries, so the focus will always be to include publications from underrepresented populations and zinesters from our local community. There will be no limit to diverse viewpoints or subject matter as long as it is clear that the work is of a scholarly nature. 
 
-## Questions? Contact the Fine Arts librarian at far@prattlibrary.org
+**Questions? Contact the Fine Arts librarian at far@prattlibrary.org**
