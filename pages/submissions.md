@@ -13,7 +13,7 @@ credits: true
 
 We welcome submissions of zines on any topic. We request that your zine be self-published. The Fine Arts librarian reserves the right to decline work that doesn’t reflect the library’s vision or mission.
 
-### All submissions can be sent via post to: ###
+<u> ### All submissions can be sent via post to: ### </u>
 
   **Enoch Pratt Free Library**
   
