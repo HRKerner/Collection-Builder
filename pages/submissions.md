@@ -1,7 +1,7 @@
 ---
 title: Submissions
-layout: about
-permalink: /submission.html
+layout: submissions
+permalink: /submissions.html
 # include CollectionBuilder info at bottom
 credits: true
 # Edit the markdown on in this file to describe your collection
