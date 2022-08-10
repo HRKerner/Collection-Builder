@@ -11,10 +11,16 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
-## About the Collection
+We welcome submissions of zines on any topic. We request that your zine be self-published. The Fine Arts librarian reserves the right to decline work that doesn’t reflect the library’s vision or mission.
 
-Welcome to our growing collection! The majority of our zines are created by people of different ethnicities, genders, classes, ages, abilities, and sexual orientations. The addition of this collection to our library has strengthened our patron's lives while supporting established collections in neighboring departments such as Young Adult and Humanities.
+All submissions can be sent via post to:
 
-The very heart of zines is their ability to give voice to those who are not traditionally represented in libraries, so the focus will always be to include publications from underrepresented populations and zinesters from our local community. There will be no limit to diverse viewpoints or subject matter as long as it is clear that the work is of a scholarly nature. 
+**Enoch Pratt Free Library
+400 Cathedral Street 
+Baltimore, MD 21201
+Attn: Fine Arts librarian / zine submission**
 
-**Questions? Contact the Fine Arts librarian at far@prattlibrary.org**
+*What happens to my zine once it’s submitted?*
+Once your zine has been received your material will be reviewed. If you are invited to join the collection we will email you a form to complete the acceptance process and learn more about your publication. Please allow us six weeks to review your submission.  
+
+If at any time you wish to remove your zine from the library please send a written request to far@prattlibrary.org. We will remove it from the physical and digital collections. At this point arrangements will be made to return the zine to the creator or recycle the material.
