@@ -15,13 +15,10 @@ We welcome submissions of zines on any topic. We request that your zine be self-
 
 All submissions can be sent via post to:
 
-**Enoch Pratt Free Library
-
-400 Cathedral Street 
-
-Baltimore, MD 21201
-
-Attn: Fine Arts librarian / zine submission**
+  **Enoch Pratt Free Library**
+  **400 Cathedral Street** 
+  **Baltimore, MD 21201**
+  **Attn: Fine Arts librarian / zine submission**
 
 **What happens to my zine once it’s submitted?**
 
