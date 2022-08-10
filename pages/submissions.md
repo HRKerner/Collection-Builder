@@ -13,7 +13,7 @@ credits: true
 
 We welcome submissions of zines on any topic. We request that your zine be self-published. The Fine Arts librarian reserves the right to decline work that doesn’t reflect the library’s vision or mission.
 
-##All submissions can be sent via post to:
+All submissions can be sent via post to:
 
   **Enoch Pratt Free Library**
   
@@ -23,7 +23,7 @@ We welcome submissions of zines on any topic. We request that your zine be self-
   
   **Attn: Fine Arts librarian / zine submission**
 
-##**What happens to my zine once it’s submitted?**
+**What happens to my zine once it’s submitted?**
 
 Once your zine has been received your material will be reviewed. If you are invited to join the collection we will email you a form to complete the acceptance process and learn more about your publication. Please allow us six weeks to review your submission.  
 
