@@ -1,6 +1,6 @@
 ---
 title: Submissions
-layout: submission
+layout: about
 permalink: /submission.html
 # include CollectionBuilder info at bottom
 credits: true
