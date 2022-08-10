@@ -23,7 +23,7 @@ All submissions can be sent via post to:
   
   **Attn: Fine Arts librarian / zine submission**
 
-## **What happens to my zine once it’s submitted?** ##
+# **What happens to my zine once it’s submitted?** #
 
 Once your zine has been received your material will be reviewed. If you are invited to join the collection we will email you a form to complete the acceptance process and learn more about your publication. Please allow us six weeks to review your submission.  
 
