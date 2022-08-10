@@ -7,6 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+## Submissions
 
 #### We welcome submissions of zines on any topic. We request that your zine be self-published. The Fine Arts librarian reserves the right to decline work that doesn’t reflect the library’s vision or mission. ####
 
