@@ -21,6 +21,7 @@ Baltimore, MD 21201
 Attn: Fine Arts librarian / zine submission**
 
 **What happens to my zine once it’s submitted?**
+
 Once your zine has been received your material will be reviewed. If you are invited to join the collection we will email you a form to complete the acceptance process and learn more about your publication. Please allow us six weeks to review your submission.  
 
 If at any time you wish to remove your zine from the library please send a written request to far@prattlibrary.org. We will remove it from the physical and digital collections. At this point arrangements will be made to return the zine to the creator or recycle the material.
